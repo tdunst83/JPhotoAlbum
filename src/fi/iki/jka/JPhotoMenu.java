@@ -10,6 +10,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class JPhotoMenu {
+    public static String A_SLIDESHOW_FAST = "Start fast slideshow";
     public static String A_NEW = "New";
     public static String A_OPEN = "Open...";
     public static String A_SAVE = "Save";
